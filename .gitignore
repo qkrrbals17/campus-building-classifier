@@ -1,0 +1,22 @@
+# Data (competition data is not redistributable)
+train/
+test/
+
+# Weights and generated outputs
+*.pt
+*.pth
+*.zip
+package/
+submission.csv
+package_check.csv
+pred.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
